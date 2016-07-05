@@ -1,2 +1,2 @@
 # training
-Training on CSharp language.
+Training on CSharp language..
